@@ -22,3 +22,5 @@ Subpackage
 
 SciPy sub-packages need to be imported separately, for example:
  **from scipy import linalg, optimize **
+
+SciPy and NumPy have documentation versions in both HTML and PDF format available at https://docs.scipy.org/
