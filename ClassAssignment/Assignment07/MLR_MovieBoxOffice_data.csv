@@ -1,0 +1,131 @@
+movie_name,revenue_total,revenue_opening_day,revenue_opening_weekend,revenue_firstweek,movie_genre,runtime,movie_director,release_month,release_year
+Angrezi Medium,9.36,4.03,9.03,9.36,Drama,145,Homi Adajania,Mar,2020
+Baaghi 3,93.37,17.5,53.83,90.67,Action,147,Ahmed Khan,Mar,2020
+Thappad,30.61,3.07,14.66,22.79,Drama,142,Anubhav Sinha,Feb,2020
+Shubh Mangal Zyada Saavdhan,62.78,9.55,32.66,44.84,Comedy,120,Hitesh Kewalya,Feb,2020
+Bhoot: Part One - The Haunted Ship,31.97,5.1,16.36,24.18,Horror,117,Bhanu Pratap Singh,Feb,2020
+Love Aaj Kal,34.99,12,26,32.6,Romance,141,Imtiaz Ali,Feb,2020
+Malang,58.04,6.71,25.36,39.65,Romance,134,Mohit Suri,Feb,2020
+Shikara,7.95,1.2,4.95,6.7,Drama,120,Vidhu Vinod Chopra,Feb,2020
+Jawaani Jaaneman,27.91,3.24,12.83,20.21,Comedy,119,Nitin Kakkar,Jan,2020
+Panga,25.64,2.7,14.91,21.36,Sports,129,Ashwiny Iyer Tiwari,Jan,2020
+Street Dancer 3D,74.22,10.26,41.23,56.77,Dance,144,Remo D'Souza,Jan,2020
+Tanhaji: The Unsung Warrior,276.9,15.1,61.75,118.91,Historical,134,Om Raut,Jan,2020
+Chhapaak,32.48,4.77,19.02,28.38,Drama,123,Meghna Gulzar,Jan,2020
+Good Newwz,201.14,17.56,64.99,127.9,Comedy,134,Raj Mehta,Dec,2019
+Dabangg 3,145.9,24.5,81.15,126.55,Action,163,Prabhu Deva,Dec,2019
+Mardaani 2,47.51,3.8,18.15,28.05,Crime,106,Gopi Puthran,Dec,2019
+Pati Patni Aur Woh,86.77,9.1,35.94,55.97,Comedy,128,Mudassar Aziz,Dec,2019
+Panipat,34.28,4.12,17.68,25.68,Historical,162,Ashutosh Gowariker,Dec,2019
+Commando 3,32.44,4.74,18.33,29.24,Action,133,Aditya Datt,Nov,2019
+Marjaavaan,48.37,7.03,24.42,37.87,Action,137,Milap Zaveri,Nov,2019
+Bala,115.28,10.15,43.95,72.24,Comedy,129,Amar Kaushik,Nov,2019
+Ujda Chaman,12,2.35,9.5,9.5,Comedy,120,Abhishek Pathak,Nov,2019
+Housefull 4,194.59,16.5,46.5,129.35,Comedy,142,Farhad Samji,Oct,2019
+Saand Ki Aankh,23.39,0.48,2.47,11.68,Biographical,149,Tushar Hiranandani,Oct,2019
+The Sky Is Pink,20.03,2.5,10.4,15.15,Biographical,149,Shonali Bose,Oct,2019
+Sye Raa Narasimha Reddy,2.6,2.6,0,0,Historical,170,Surender Reddy,Oct,2019
+War,318.01,53.35,166.25,238.35,Action,156,Siddharth Anand,Oct,2019
+Pal Pal Dil Ke Paas,4.8,1.25,4.8,4.8,Romance,153,Sunny Deol,Sep,2019
+Section 375,12.49,1.45,8.04,12.49,Drama,124,Ajay Bahl,Sep,2019
+Dream Girl,139.7,10.05,44.57,72.2,Comedy,132,Raaj Shaandilyaa,Sep,2019
+Chhichhore,150.36,7.32,35.98,68.83,Comedy,146,Nitesh Tiwari,Sep,2019
+Saaho,130.98,24.4,79.08,116.03,Action,171,Sujeeth,Aug,2019
+Batla House,86.04,15.55,47.99,69.99,Action,146,Nikhil Advani,Aug,2019
+Mission Mangal,200.16,29.16,97.56,128.16,Drama,133,Jagan Shakti,Aug,2019
+Jabariya Jodi,12,3.15,12,0,Action,144,Prashant Singh,Aug,2019
+Judgemental Hai Kya,40.1,5.4,22.04,31.42,Comedy,121,Prakash Kovelamudi,Jul,2019
+Super 30,146.58,11.83,50.76,75.85,Biographical,154,Vikas Bahl,Jul,2019
+Article 15,63.05,5.02,20.04,34.21,Crime,131,Anubhav Sinha,Jun,2019
+Kabir Singh,278.24,20.21,70.83,134.42,Drama,175,Sandeep Reddy Vanga,Jun,2019
+Game Over,11.06,0.97,4.95,9.02,Thriller,103,Ashwin Saravanan,Jun,2019
+Bharat,201.86,42.3,150.1,180.05,Drama,155,Ali Abbas Zafar,Jun,2019
+PM Narendra Modi,20.95,2.88,11.76,19.21,Biographical,131,Omung Kumar,May,2019
+India's Most Wanted,10.9,2.1,8.25,10.9,Action,123,Rajkumar Gupta,May,2019
+De De Pyaar De,95.86,10.41,38.54,61.05,Comedy,135,Akiv Ali,May,2019
+Student Of The Year 2,68.82,12.06,38.83,56.83,Drama,146,Punit Malhotra,May,2019
+Blank,5.15,0.97,3.72,5.11,Action,111,Tony D'souza,May,2019
+Kalank,74.23,21.6,62.75,73.7,Period,168,Abhishek Varman,Apr,2019
+The Tashkent Files,16.75,0.4,2.2,3.5,Drama,144,Vivek Agnihotri,Apr,2019
+Romeo Akbar Walter,36.54,5.35,20.85,30,Spy,145,Robbie Grewal,Apr,2019
+Junglee,24.3,3.35,13.85,21.2,Action,115,Chuck Russell,Mar,2019
+Kesari,150.91,21.06,78.07,105.86,Period,150,Anurag Singh,Mar,2019
+Badla,88.02,5.04,23.2,38,Crime,120,Sujoy Ghosh,Mar,2019
+Luka Chuppi,94.15,8.01,32.13,53.7,Comedy,126,Laxman Utekar,Mar,2019
+Sonchiriya,6.55,1.2,4.6,6.55,Crime,146,Abhishek Chaubey,Mar,2019
+Total Dhamaal,150.76,16.5,62.4,94.55,Comedy,130,Indra Kumar,Feb,2019
+Gully Boy,139.38,19.4,72.45,100.3,Musical,156,Zoya Akhtar,Feb,2019
+Amavas,2.85,0.75,2.5,2.85,Horror,134,Bhushan Patel,Feb,2019
+Ek Ladki Ko Dekha Toh Aisa Laga,22.01,3.3,13.53,19.68,Romance,121,Shelly Chopra Dhar,Feb,2019
+Manikarnika: The Queen Of Jhansi,91.7,8.75,42.55,61.15,Biographical,148,Krish,Jan,2019
+Thackeray,31.6,6,22.9,31.6,Biographical,139,Abhijit Panse,Jan,2019
+Why Cheat India,8.45,1.71,6.8,8.45,Drama,121,Soumik Sen,Jan,2019
+The Accidental Prime Minister,16.3,3.4,11.9,16.3,Biographical,112,Sunil Bohra,Jan,2019
+Uri: The Surgical Strike,244.06,8.2,35.73,70.94,Action,138,Aditya Dhar,Jan,2019
+Simmba,240.22,20.72,75.11,150.81,Action,159,Rohit Shetty,Dec,2018
+KGF,43.93,2.1,9.2,21.45,Action,155,Prashanth Neel,Dec,2018
+Zero,88.85,19.35,54.6,82.6,Comedy,158,Aanand L Rai,Dec,2018
+Kedarnath,57.44,7.25,27.75,42.45,Drama,120,Abhishek Kapoor,Dec,2018
+2,177.75,20.25,95,139.75,Sci-fi,146,Shankar,Nov,2018
+Bhaiaji Superhittt,6.25,1,3.2,4.25,Comedy,133,Neerraj Pathak,Nov,2018
+Pihu,2.5,0.45,1.6,2.5,Drama,93,Vinod Kapri,Nov,2018
+Mohalla Assi,1.8,0.25,0.55,1.8,Drama,120,Dr Chandrakprakash Dwivedi,Nov,2018
+Thugs Of Hindostan,151.04,52.25,123,140.4,Action,165,Vijay Krishna Acharya,Nov,2018
+Baazaar,28.02,3.07,11.93,18.05,Crime,140,Gauravv K Chawla,Oct,2018
+Badhaai Ho,136.8,7.35,45.7,66.1,Comedy,126,Amit Ravindernath Sharma,Oct,2018
+Tumbbad,13.48,0.65,3.25,5.85,Horror,113,Rahi Anil Barve,Oct,2018
+AndhaDhun,41.9,2.7,15,27.65,Thriller,140,Sriram Raghavan,Oct,2018
+Sui Dhaaga: Made In India,79.02,8.3,36.6,62.5,Drama,122,Sharat Katariya,Sep,2018
+Pataakha,7.64,0.9,4.05,7.64,Drama,136,Vishal Bhardwaj,Sep,2018
+Batti Gul Meter Chalu,37.26,6.76,23.26,34.43,Drama,163,Shree Narayan Singh,Sep,2018
+Manmarziyaan,26.45,3.52,14.33,21.4,Drama,157,Anurag Kashyap,Sep,2018
+Yamla Pagla Deewana Phir Se,9.42,1.82,6.32,9.42,Comedy,148,Bobby Deol,Aug,2018
+Stree,129.67,6.83,32.27,60.39,Comedy,130,Amar Kaushik,Aug,2018
+Happy Phirr Bhag Jayegi,18.11,2.7,11.78,18.11,Comedy,137,Mudassar Aziz,Aug,2018
+Gold,107.37,25.25,71.3,89.3,Biographical,153,Reema Kagti,Aug,2018
+Satyameva Jayate,75.09,20.52,56.91,75.09,Action,141,Milap Zaveri,Aug,2018
+Fanney Khan,9.85,2.15,7.15,9.85,Drama,130,Atul Manjrekar,Aug,2018
+Mulk,17.51,1.68,8.16,12.81,Drama,140,Anubhav Sinha,Aug,2018
+Karwaan,16.55,1.6,8.1,12.4,Drama,120,Akarsh Khurana,Aug,2018
+Dhadak,69.16,8.71,33.67,51.56,Drama,138,Shashank Khaitan,Jul,2018
+Soorma,30.11,3.2,13.85,21.21,Biographical,131,Shaad Ali,Jul,2018
+Sanju,341.22,34.75,120.06,202.51,Biographical,162,Rajkumar Hirani,Jun,2018
+Race 3,161.04,29.17,106.47,144.51,Action,160,Remo D'Souza,Jun,2018
+Veere Di Wedding,80.23,10.7,36.52,56.96,Comedy,125,Shashanka Ghosh,Jun,2018
+Parmanu: The Story of Pokhran,65.36,4.82,20.78,35.41,Action,130,Abhishek Sharma,May,2018
+Raazi,123.17,7.53,32.94,56.59,Drama,140,Meghna Gulzar,May,2018
+102 Not Out,51.79,3.52,16.65,27.7,Comedy,101,Umesh Shukla,May,2018
+Omerta,3.63,0.54,2.63,3.63,Drama,98,Hansal Mehta,May,2018
+Nanu Ki Jaanu,4.09,0.75,3.1,4,Comedy,133,Faraz Haider,Apr,2018
+October,45.36,5.04,20.25,30.24,Drama,116,Shoojit Sircar,Apr,2018
+Blackmail,19.11,2.81,11.22,16.92,Comedy,139,Abhinay Deo,Apr,2018
+Baaghi 2,165.5,25.1,73.1,112.85,Action,145,Ahmed Khan,Mar,2018
+Hichki,46.17,3.3,15.35,26.1,Drama,140,Siddharth P Malhotra,Mar,2018
+Raid,101.54,10.04,41.01,63.05,Crime,128,Rajkumar Gupta,Mar,2018
+Hate Story IV,20.04,3.76,12.57,20.04,Thriller,131,Vishal Pandya,Mar,2018
+Pari,22.75,4.36,15.34,22.75,Horror,137,Prosit Roy,Mar,2018
+Welcome To New York,4.5,1,3,3,Comedy,124,Chakri Toleti,Feb,2018
+Sonu Ke Titu Ki Sweety,108.71,6.42,26.57,45.94,Comedy,140,Luv Ranjan,Feb,2018
+Aiyaary,17.79,3.36,11.7,16.14,Action,160,Neeraj Pandey,Feb,2018
+Pad Man,80,10.26,40.05,62.87,Social,140,R. Balki,Feb,2018
+Padmaavat,300.26,24,114,166.5,Historical,163,Sanjay Leela Bhansali,Jan,2018
+1921,15.67,1.56,6.45,11.58,Horror,144,Vikram Bhatt,Jan,2018
+Kaalakaandi,5.77,1.25,3.85,5.77,Drama,112,Akshat Verma,Jan,2018
+Mukkabaaz,8.87,0.82,4.04,6.73,Drama,155,Anurag Kashyap,Jan,2018
+Tiger Zinda Hai,339.16,34.1,114.93,206.04,Action,161,Ali Abbas Zafar,Dec,2017
+Fukrey Returns,80.13,8.1,32.2,50.55,Comedy,131,Mrigdeep Singh Lamba,Dec,2017
+Firangi,9.5,1.85,6.6,9.5,Comedy,160,Rajiev Dhingra,Dec,2017
+Tumhari Sulu,34.14,2.87,12.87,19.78,Comedy,140,Suresh Triveni,Nov,2017
+Aksar 2,5.6,0.8,2.9,5.3,Thriller,117,Anant Mahadevan,Nov,2017
+Qarib Qarib Singlle,12.15,1.75,8.3,12.15,Comedy,125,Tanuja Chandra,Nov,2017
+Ittefaq,27.4,4.05,16.05,23.65,Thriller,107,Abhay Chopra,Nov,2017
+Golmaal Again,205.52,30.14,87.6,136.07,Comedy,151,Rohit Shetty,Oct,2017
+Secret Superstar,59.34,4.8,31.1,41.59,Drama,150,Advait Chandan,Oct,2017
+Chef,6.37,1.05,4,5.6,Drama,133,Raja Krishna Menon,Oct,2017
+Judwaa 2,138.47,16.1,59.25,98.08,Comedy,150,David Dhawan,Sep,2017
+Newton,22.79,0.96,6.9,11.83,Comedy,107,Amit Masurkar,Sep,2017
+Bhoomi,10.63,2.25,7.48,10.28,Drama,135,Omung Kumar,Sep,2017
+Haseena Parkar,8.03,1.87,6.1,8,Biographical,124,Apoorva Lakhia,Sep,2017
+Lucknow Central,11.2,2.04,8.42,10.42,Thriller,147,Ranjit Tiwari,Sep,2017
+Simran,17.26,2.77,10.65,15.48,Drama,124,Hansal Mehta,Sep,2017
+Poster Boys,12.73,1.75,7.25,11.2,Comedy,131,Shreyas Talpade,Sep,2017
