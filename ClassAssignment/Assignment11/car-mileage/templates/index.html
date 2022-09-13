@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+    <meta charset="UTF-8">
+    <title>ML Deployment using GCP</title>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+	
+</head>
+
+<body>
+    <div class="header">
+		<h1 align="center">Accelerate AI - Model Deployment</h1>
+	</div>
+
+	<div class="prediction">
+        <h2>Car Mileage Prediction App</h2>
+        <form action="{{ url_for('predict')}}"method="post">
+		<label for="Displacement">Engine Displacment:</label>
+		<input type="text" id="Displacement" name="Displacement" required="required">
+		<br><br>
+		
+		<label for="hp">Horse Power(BHP):</label>
+		<input type="text" id="hp" name="hp" required="required">
+		<br><br>
+
+		<label for="hp">Acceleration(0-60):</label>
+		<input type="text" id="hp" name="hp" required="required">
+    	<br><br>
+		
+		<label for="hp">Weight of Car(Kg):</label>
+		<input type="text" id="hp" name="hp" required="required">
+    	<br><br>
+
+    	<br><br>
+        <button style="width: 100px; height: 30px;" type="submit" >Predict</button>
+        </form>
+
+       <br>
+       <b> Predicted Car Mileage is: {{ prediction_text }}</b>
+    </div>
+
+</body>
+</html>
