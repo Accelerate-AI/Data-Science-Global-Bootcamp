@@ -1,5 +1,4 @@
-
-#Assignment 11 - Model deployment 
+# Assignment 11 - Model deployment 
 
 We are interested in deploying a model to predict the mileage of cars.
 400 cars were measured and its data is available in the file Car_mileage_data.csv.
