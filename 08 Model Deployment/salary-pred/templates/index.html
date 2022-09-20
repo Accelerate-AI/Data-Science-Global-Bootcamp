@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+    <meta charset="UTF-8">
+    <title>ML Deployment using Heroku</title>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+	
+</head>
+
+<body>
+    <div class="header">
+		<h1 align="center">Accelerate AI - Model Deployment</h1>
+	</div>
+
+	<div class="prediction">
+        <h2>Salary Prediction App</h2>
+        <form action="{{ url_for('predict')}}"method="post">
+		<label for="YearsEmployed">Total Employment(Years):</label>
+		<input type="text" id="YearsEmployed" name="YearsEmployed" required="required">
+		<label for="YearsEmployed">(0-25):</label>
+		<br><br>
+		<label for="DirectRepotees">No of Direct Repotees (#):</label>
+		<input type="text" id="DirectRepotees" name="DirectRepotees" required="required">
+		<label for="DirectRepotees">(0-44):</label>
+		<br><br>
+    		<label for="Sales">Joining in Sales (Yes/No):</label>
+    		<select style="width:170px;" id="Sales" name="Sales" required="required">
+      			<option value="1">Yes</option>
+      			<option value="0">No</option>
+
+    		</select>
+    		<br>
+    		<br>
+        	<button style="width: 100px; height: 30px;" type="submit" >Predict</button>
+        </form>
+
+       <br>
+       <b> Employee Offer should be : {{ prediction_text }}</b>
+    </div>
+
+</body>
+</html>
